@@ -1,5 +1,7 @@
 # NewsApp_Android
 
+News Application
+
 Technology :
 1. MVVM 
 2. Clean architectecture
